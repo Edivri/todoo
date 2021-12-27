@@ -2,4 +2,4 @@
 
 ##Screenshot
 
-<img src="9jaGrocery.png">
+<img src="9ja.png">
